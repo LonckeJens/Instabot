@@ -1,2 +1,3 @@
 # Instabot
-Basis Instagram like bot
+Basis Instagram like bot, gemaakt voor seminaries
+@JensLoncke
